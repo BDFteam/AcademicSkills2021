@@ -1,6 +1,6 @@
-# Acedemic Skills 2021 (team BDF)
+# Academic Skills 2021 (team BDF)
 
-This repository contains all the code of the Acedemic Skills Project 2021 at the VU University Amsterdam. All this code is available under the [MIT License](LICENSE). 
+This repository contains all the code of the Academic Skills Project 2021 at the VU University Amsterdam for the Econometics and Operations/Data Science program. All this code is available under the [MIT License](LICENSE). 
 
 ## Installation
 
