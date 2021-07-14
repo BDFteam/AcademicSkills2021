@@ -2,7 +2,7 @@
 
 This repository contains all the code of the Academic Skills Project 2021 at the VU University Amsterdam for the Econometics and Operations Research/Data Science program. All this code is available under the [MIT License](LICENSE).
 
-All this code was written for [a paper about the News Vendor Problem](/final-paper.pdf), for which we were awarded a 9.2.
+All this code was written for [a paper about the News Vendor Problem](/final-paper.pdf), for which we were awarded a 9.2/10.
 
 ## Installation
 
